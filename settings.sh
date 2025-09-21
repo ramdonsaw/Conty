@@ -6,7 +6,7 @@
 # packages from the Chaotic-AUR repo
 PACKAGES=(
 	# audio
-	alsa-lib alsa-plugins libpulse alsa-tools alsa-utils pulseaudio-bluetooth pipewire pipewire-pulse pipewire-jack
+	alsa-lib alsa-plugins libpulse alsa-tools alsa-utils pipewire pipewire-pulse pipewire-jack
 	# core
 	xorg-xwayland qt6-wayland wayland qt5-wayland xorg-server-xephyr
 	# video
@@ -22,7 +22,7 @@ PACKAGES=(
 	neovim ttf-roboto zen-browser-bin mpv pcmanfm-gtk3 lxappearance-gtk3
 	htop qbittorrent gpicview file-roller openbox alacritty shotcut
 	yt-dlp jre8-openjdk gnome-themes-extra keepassxc torbrowser-launcher
- 	ffmpegthumbnailer blueman feh conky picom rofi zathura-pdf-mupdf
+ 	ffmpegthumbnailer blueman feh conky picom rofi zathura-pdf-mupdf tesseract-data-afr
 )
 
 # If you want to install AUR packages, specify them in this variable
