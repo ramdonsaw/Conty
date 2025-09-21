@@ -22,7 +22,8 @@ PACKAGES=(
 	neovim ttf-roboto zen-browser-bin mpv pcmanfm-gtk3 lxappearance-gtk3
 	htop qbittorrent gpicview file-roller openbox alacritty shotcut
 	yt-dlp jre8-openjdk gnome-themes-extra keepassxc torbrowser-launcher
- 	ffmpegthumbnailer blueman feh conky picom rofi zathura-pdf-mupdf tesseract-data-afr
+ 	ffmpegthumbnailer blueman feh conky picom rofi zathura-pdf-mupdf
+	tesseract-data-afr
 )
 
 # If you want to install AUR packages, specify them in this variable
